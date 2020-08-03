@@ -15,5 +15,23 @@ Este repositorio está dedicado a la planificación semanal. Vamos a realizar la
 * **Hito más importante de la semana**: Redacción del capítulo 4 y 5 / Exposición del trabajo al tribunal
 * **Actividades logradas**: 
 
-Y así seguiremos llenando hasta la semana 16.
-Exitos! 
+## Planificación semana 14: 03 al 07 de agosto 2020
+![1](https://user-images.githubusercontent.com/24251638/89208534-2d423580-d582-11ea-822e-a430134fe843.jpg)
+* **Hito más importante de la semana**: Terminar el ultimo modulo de la app de reportes y las pruebas unitarias de los modulos desarrollados
+* **Actividades logradas**: 
+
+## Planificación semana 14: 10 al 14 de agosto 2020
+![2](https://user-images.githubusercontent.com/24251638/89208550-30d5bc80-d582-11ea-9372-8d84a0c4a231.jpg)
+* **Hito más importante de la semana**: Pasar correctamente las pruebas de usuario de los modulos desarrollados
+* **Actividades logradas**: 
+
+## Planificación semana 14: 17 al 21 de agosto 2020
+![3](https://user-images.githubusercontent.com/24251638/89208543-2f0bf900-d582-11ea-919b-e0b55af27b6b.jpg)
+* **Hito más importante de la semana**: Documentar cada sprint desarrollado
+* **Actividades logradas**: 
+
+## Planificación semana 14: 24 al 28 de agosto 2020
+![4](https://user-images.githubusercontent.com/24251638/89208544-2fa48f80-d582-11ea-84de-923a6a896e29.jpg)
+* **Hito más importante de la semana**: Espera de contestación de usuarios para sacar resultados
+* **Actividades logradas**: 
+
